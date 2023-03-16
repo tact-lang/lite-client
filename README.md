@@ -5,7 +5,7 @@ Low level client for TON blockchain.
 ## Installation
 
 ```bash
-yarn install @tact-lang/lite-client ton ton-core ton-crypto
+yarn add @tact-lang/lite-client
 ```
 
 ## Usage
